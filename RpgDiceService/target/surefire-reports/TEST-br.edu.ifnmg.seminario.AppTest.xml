@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="br.edu.ifnmg.seminario.AppTest" time="0.008" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService\target\test-classes;C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService\target\classes;C:\Users\diego\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\diego\.m2\repository\jakarta\xml\ws\jakarta.xml.ws-api\3.0.0\jakarta.xml.ws-api-3.0.0.jar;C:\Users\diego\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\3.0.0\jakarta.xml.bind-api-3.0.0.jar;C:\Users\diego\.m2\repository\jakarta\xml\soap\jakarta.xml.soap-api\2.0.0\jakarta.xml.soap-api-2.0.0.jar;C:\Users\diego\.m2\repository\jakarta\jws\jakarta.jws-api\3.0.0\jakarta.jws-api-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-rt\3.0.0\jaxws-rt-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-impl\3.0.0\jaxb-impl-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-core\3.0.0\jaxb-core-3.0.0.jar;C:\Users\diego\.m2\repository\org\glassfish\ha\ha-api\3.1.12\ha-api-3.1.12.jar;C:\Users\diego\.m2\repository\org\glassfish\external\management-api\3.2.3\management-api-3.2.3.jar;C:\Users\diego\.m2\repository\org\glassfish\gmbal\gmbal-api-only\4.0.2\gmbal-api-only-4.0.2.jar;C:\Users\diego\.m2\repository\org\jvnet\staxex\stax-ex\2.0.0\stax-ex-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\stream\buffer\streambuffer\2.0.1\streambuffer-2.0.1.jar;C:\Users\diego\.m2\repository\org\jvnet\mimepull\mimepull\1.9.13\mimepull-1.9.13.jar;C:\Users\diego\.m2\repository\com\sun\xml\fastinfoset\FastInfoset\2.0.0\FastInfoset-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\mail\jakarta.mail\2.0.0\jakarta.mail-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\messaging\saaj\saaj-impl\2.0.0\saaj-impl-2.0.0.jar;C:\Users\diego\.m2\repository\com\fasterxml\woodstox\woodstox-core\6.2.1\woodstox-core-6.2.1.jar;C:\Users\diego\.m2\repository\org\codehaus\woodstox\stax2-api\4.2.1\stax2-api-4.2.1.jar;C:\Users\diego\.m2\repository\com\sun\activation\jakarta.activation\2.0.0\jakarta.activation-2.0.0.jar;C:\Users\diego\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.0.0\jakarta.annotation-api-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-tools\3.0.0\jaxws-tools-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-xjc\3.0.0\jaxb-xjc-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-jxc\3.0.0\jaxb-jxc-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-eclipselink-plugin\3.0.0\jaxws-eclipselink-plugin-3.0.0.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\3.0.0-M2\org.eclipse.persistence.moxy-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\3.0.0-M2\org.eclipse.persistence.asm-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\3.0.0-M2\org.eclipse.persistence.core-3.0.0-M2.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\sdo-eclipselink-plugin\3.0.0\sdo-eclipselink-plugin-3.0.0.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.sdo\3.0.0-M2\org.eclipse.persistence.sdo-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\commonj.sdo\2.1.1\commonj.sdo-2.1.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\diego\AppData\Local\Temp\surefire6516463079834338802\surefirebooter-20231212163648311_3.jar C:\Users\diego\AppData\Local\Temp\surefire6516463079834338802 2023-12-12T16-36-48_024-jvmRun1 surefire-20231212163648311_1tmp surefire_0-20231212163648311_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService\target\test-classes;C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService\target\classes;C:\Users\diego\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\diego\.m2\repository\jakarta\xml\ws\jakarta.xml.ws-api\3.0.0\jakarta.xml.ws-api-3.0.0.jar;C:\Users\diego\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\3.0.0\jakarta.xml.bind-api-3.0.0.jar;C:\Users\diego\.m2\repository\jakarta\xml\soap\jakarta.xml.soap-api\2.0.0\jakarta.xml.soap-api-2.0.0.jar;C:\Users\diego\.m2\repository\jakarta\jws\jakarta.jws-api\3.0.0\jakarta.jws-api-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-rt\3.0.0\jaxws-rt-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-impl\3.0.0\jaxb-impl-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-core\3.0.0\jaxb-core-3.0.0.jar;C:\Users\diego\.m2\repository\org\glassfish\ha\ha-api\3.1.12\ha-api-3.1.12.jar;C:\Users\diego\.m2\repository\org\glassfish\external\management-api\3.2.3\management-api-3.2.3.jar;C:\Users\diego\.m2\repository\org\glassfish\gmbal\gmbal-api-only\4.0.2\gmbal-api-only-4.0.2.jar;C:\Users\diego\.m2\repository\org\jvnet\staxex\stax-ex\2.0.0\stax-ex-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\stream\buffer\streambuffer\2.0.1\streambuffer-2.0.1.jar;C:\Users\diego\.m2\repository\org\jvnet\mimepull\mimepull\1.9.13\mimepull-1.9.13.jar;C:\Users\diego\.m2\repository\com\sun\xml\fastinfoset\FastInfoset\2.0.0\FastInfoset-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\mail\jakarta.mail\2.0.0\jakarta.mail-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\messaging\saaj\saaj-impl\2.0.0\saaj-impl-2.0.0.jar;C:\Users\diego\.m2\repository\com\fasterxml\woodstox\woodstox-core\6.2.1\woodstox-core-6.2.1.jar;C:\Users\diego\.m2\repository\org\codehaus\woodstox\stax2-api\4.2.1\stax2-api-4.2.1.jar;C:\Users\diego\.m2\repository\com\sun\activation\jakarta.activation\2.0.0\jakarta.activation-2.0.0.jar;C:\Users\diego\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.0.0\jakarta.annotation-api-2.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-tools\3.0.0\jaxws-tools-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-xjc\3.0.0\jaxb-xjc-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\bind\jaxb-jxc\3.0.0\jaxb-jxc-3.0.0.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\jaxws-eclipselink-plugin\3.0.0\jaxws-eclipselink-plugin-3.0.0.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\3.0.0-M2\org.eclipse.persistence.moxy-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\3.0.0-M2\org.eclipse.persistence.asm-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\3.0.0-M2\org.eclipse.persistence.core-3.0.0-M2.jar;C:\Users\diego\.m2\repository\com\sun\xml\ws\sdo-eclipselink-plugin\3.0.0\sdo-eclipselink-plugin-3.0.0.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.sdo\3.0.0-M2\org.eclipse.persistence.sdo-3.0.0-M2.jar;C:\Users\diego\.m2\repository\org\eclipse\persistence\commonj.sdo\2.1.1\commonj.sdo-2.1.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\diego"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_202\jre"/>
+    <property name="basedir" value="C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\diego\AppData\Local\Temp\surefire6516463079834338802\surefirebooter-20231212163648311_3.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="diego"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\diego\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\diego\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="C:\Users\diego\dev\Projetos\Faculdade\Web\Seminario JAX-WS\seminario\RpgDiceService"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-17/bin/server;C:/Program Files/Java/jdk-17/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\diego\AppData\Local\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\diego\AppData\Local\Microsoft\WindowsApps;;C:\Users\diego\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\diego\.dotnet\tools;C:\Users\diego\AppData\Roaming\npm;C:\Windows\System32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testApp" classname="br.edu.ifnmg.seminario.AppTest" time="0.001"/>
+</testsuite>
